@@ -1,4 +1,4 @@
-# Développement d'une WebApp Interactive avec Streamlit - Lina Ibouchichene & Alexandre ””Mégard
+# Développement d'une WebApp Interactive avec Streamlit - Lina Ibouchichene & Alexandre Mégard
 
 # ONG Explorer 2.0 - Une vue d'ensemble sur les actions humanitaires mondiales
 
