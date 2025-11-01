@@ -85,16 +85,4 @@ ong-explorer/
 
 ---
 
-### 💡 Notes techniques
-
-* L’IDH est basé sur les données **ONU 2023** et sert à colorer la carte par niveau de développement.
-* Le système de session (`st.session_state`) gère à la fois la **connexion utilisateur** et **l’historique des dons**.
-* Les appels API sont sécurisés avec une gestion d’erreurs pour assurer la stabilité de l’application.
-* L’application est totalement **responsive** et fonctionne sur **Windows, macOS et Linux**.
-
----
-
-### 🧠 Auteurs
-
-👩‍💻 **Lina Ibouchichene**
-👨‍💻 **Alexandre Mégard**
+### Par Lina IBOUCHICHENE et Alexandre MEGARD
